@@ -53,5 +53,8 @@ To start my career as a DevOps Engineer and grow by working on cloud infrastruct
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Iamnehapawar
-- LinkedIn: (will be added soon)
+
+- 💻 GitHub: https://github.com/Iamnehapawar
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-pawar-3ba4a131b
+- ✍️ Medium: https://medium.com/@nehapawar29005
+
