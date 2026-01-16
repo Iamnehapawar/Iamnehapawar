@@ -1,8 +1,11 @@
+[![Follow me on GitHub](https://img.shields.io/github/followers/Iamnehapawar?label=Follow&style=social)](https://github.com/Iamnehapawar)
+[![GitHub stars](https://img.shields.io/github/stars/Iamnehapawar/Iamnehapawar?style=social)](https://github.com/Iamnehapawar/Iamnehapawar/stargazers)
+
 ## 👋 Hi, I'm Neha Pawar
 
 I am an AWS & DevOps fresher with hands-on experience in cloud infrastructure, automation, and CI/CD practices through real-world projects.
 
-I enjoy learning DevOps concepts by implementing them practically rather than just studying theory.
+I focus on learning DevOps concepts practically rather than only studying theory.
 
 ---
 
